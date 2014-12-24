@@ -6,6 +6,7 @@ public class Test {
 	int t2;
 	int t3;
 	int t4;
+	int t5;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
